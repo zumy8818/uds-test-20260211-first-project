@@ -1,0 +1,20 @@
+/* 指定フォントの定義 */
+.font-hira {
+    font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴシックProN W6", sans-serif;
+    font-weight: 600;
+}
+
+.font-soei {
+    font-family: "HGP創英角ポップ体", "HGS創英角ポップ体", "創英角ポップ", cursive;
+}
+
+.font-hg {
+    font-family: "HG明朝E", "HGP明朝E", "HGS明朝E", serif;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
